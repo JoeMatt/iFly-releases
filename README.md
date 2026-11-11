@@ -6,3 +6,7 @@ Public builds of [iFly EMU](https://ifly-emu.com), the Dreamcast, Naomi and Atom
 - **TestFlight and the App Store:** see [ifly-emu.com](https://ifly-emu.com).
 
 Each release is a beta build. Its notes list what changed since the previous one.
+
+## Server imports in development
+
+iFly is adding game downloads from [Emulation Server (ECS)](https://github.com/Provenance-Emu/emulator-content-server) and [RomM](https://github.com/rommapp/romm). In builds with server imports, open **Add Games**, choose your server, and select a game to import. See the [iFly import guide](https://ifly-emu.com/guide/importing/).
